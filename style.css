@@ -115,7 +115,7 @@ h2 {
 
 }
 
-.aboutme p strong
+.aboutme p strong,
 .education p strong,
 .work-exp p strong {
     color: white;
