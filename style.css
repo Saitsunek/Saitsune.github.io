@@ -13,7 +13,7 @@ a:hover {
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family:'Courier New', Courier, monospace;
     background-color: #333;
     color: #fff;
     margin: 0;
@@ -107,6 +107,7 @@ h2 {
     padding: 0;
 }
 
+.aboutme p,
 .education p,
 .work-exp p {
     margin: 5px 5px;
