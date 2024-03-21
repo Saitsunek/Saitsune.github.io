@@ -84,6 +84,7 @@ body {
     border-radius: 5px;
 }
 
+.aboutme,
 .education,
 .professional-skills,
 .languages,
@@ -93,16 +94,7 @@ body {
     margin-bottom: 20px;
 }
 
-.education h2,
-.professional-skills h2,
-.languages h2,
-.interests h2,
-.courses-projects h2,
-.contact-info h2,
-.personal-skills h2,
-.interests h2,
-.soc-link h2,
-.work-exp h2 {
+h2 {
     border-bottom: 1px solid #444;
     padding-bottom: 5px;
     margin-bottom: 10px;
@@ -115,6 +107,7 @@ body {
     padding: 0;
 }
 
+.aboutme p,
 .education p,
 .work-exp p {
     margin: 5px 5px;
@@ -122,6 +115,7 @@ body {
 
 }
 
+.aboutme p strong
 .education p strong,
 .work-exp p strong {
     color: white;
