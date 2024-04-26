@@ -151,3 +151,15 @@ h2 {
     margin-right: 10px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+    .left-column,
+    .right-column {
+        flex: 100%;
+    }
+
+    .profile-img {
+        width: 100px;
+        height: 80px;
+    }
+}
