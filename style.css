@@ -21,21 +21,20 @@ body {
 }
 
 .container {
-    display: flex;
-    max-width: 900px;
+    flex: 20%;
     margin: auto;
     background: #222;
     padding: 20px;
 }
 
 .left-column {
-    flex: 35%;
+    flex: 20%;
     background-color: #111;
     padding: 20px;
 }
 
 .right-column {
-    flex: 65%;
+    flex: 50%;
     padding: 20px;
 }
 
